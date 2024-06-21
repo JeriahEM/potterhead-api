@@ -3,3 +3,14 @@
 @tailwind utilities;
 
 
+.Tennis{
+    background-image: url('assets/hpBG.avif');
+    background-position: center;
+    background-size: cover;
+}
+
+.paper{
+    background-image: url(./assets/HPPAper.jpg);
+    background-position: center;
+    background-size: cover;
+}
